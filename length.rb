@@ -1,0 +1,1 @@
+puts "WEB CAMP".length
